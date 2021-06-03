@@ -21,7 +21,7 @@ Respuesta en menos de 15 minutos a la solicitud / Diseño y calidad de impresió
 Cliente puede hacer la solicitud de manera automatizada con la ayuda de un Chatbot. /. Agregar sistema de asesorías.
 ### 7 Estrellas
 Formatos de impresión que se adapten a tortas más grandes
-### 8 Estrellas
+### 8 Estrellas 
 Previsualizar en 3D o VR, la torta con el diseño que solicita el cliente
 ### 9 Estrellas 
 El cliente crea a traves de una aplicación, la orden personalizada que será enviada de forma automática a una impresora en linea para reducir tiempos de entrega
