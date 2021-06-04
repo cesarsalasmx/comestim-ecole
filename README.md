@@ -1,4 +1,12 @@
 # Comestim - ECOLE
+
+## Integrantes de equipo:
+- César Salas Casas
+- Juan Sebatián Herrera Carvajal
+- Brayan Sánchez
+- Gabriel E Zarate Tovar
+- Octavio Cuellar Vargas
+
 Comestim - Tortas con diseños personalizables - Venta B2B
 ### ¿En qué consiste y qué servicio ofrece? / ¿Qué hace? / ¿Cómo funciona actualmente?
 Comestim es un negocio local ubicado en Cali Colombia. Distribuimos a domicilio IMPRESIONES COMESTIBLES en papel de arroz, azúcar y multitransfer para decoración pastelera. Usamos tintas 100% vegetales.
